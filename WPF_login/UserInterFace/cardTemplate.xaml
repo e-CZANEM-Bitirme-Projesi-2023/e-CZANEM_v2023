@@ -1,0 +1,67 @@
+﻿<UserControl x:Class="WPF_login.cardTemplate"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             mc:Ignorable="d"
+             TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+             Background="{x:Null}">
+    <Grid>
+        <materialDesign:Card Background="#FF79A66D"
+                             Foreground="{DynamicResource PrimaryHueDarkForegroundBrush}"
+                             Padding="0"
+                             Width="350"
+                             Margin="5"
+                             x:Name="card1">
+
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+                <Button  Margin="0,0,0,0"
+                         x:Name="loginBtn"
+                         Style="{StaticResource MaterialDesignFlatMidBgButton}"
+                         materialDesign:ShadowAssist.ShadowDepth="Depth0"
+                         
+                         Height="60"
+                         Width="Auto"                         
+                         FontSize="18"
+                         Content="***"
+                         Click="doLogin"
+                         Background="#F1F9EF"
+                         BorderBrush="#FF79A66D"
+                         Foreground="#FF79A66D" />
+
+                <TextBlock x:Name="userNameLabel"
+                           Grid.Row="2"
+                           Margin="16 0 16 8"
+                           VerticalAlignment="Center"
+                           HorizontalAlignment="Left"
+                           Style="{StaticResource MaterialDesignBody2TextBlock}"
+                           Text="Client Name" />
+                <StackPanel Grid.Row="2"
+                            Orientation="Horizontal"
+                            Margin="16 0 16 8"
+                            HorizontalAlignment="Right">
+                    <TextBlock x:Name="labelDate"
+                               Grid.Row="2"
+                               Margin="0 0 0 0"
+                               VerticalAlignment="Center"
+                               HorizontalAlignment="Left"
+                               Style="{StaticResource MaterialDesignBody2TextBlock}"
+                               Text="*******" />
+                    <!--<materialDesign:PopupBox HorizontalAlignment="Right"
+                                             Padding="2 0 2 0">
+                        <StackPanel>
+                            <Button Content="More" />
+                            <Button Content="Options" />
+                        </StackPanel>
+                    </materialDesign:PopupBox> -->
+                </StackPanel>
+            </Grid>
+        </materialDesign:Card>
+
+    </Grid>
+</UserControl>

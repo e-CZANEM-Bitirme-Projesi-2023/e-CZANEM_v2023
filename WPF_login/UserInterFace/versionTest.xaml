@@ -1,0 +1,96 @@
+﻿<Window x:Class="WPF_login.UserInterFace.versionTest"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:WPF_login"
+        mc:Ignorable="d"
+        Title="Login"
+        Height="760"
+        Width="450"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        Background="{x:Null}"
+        AllowsTransparency="True"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen">
+
+
+    <materialDesign:Card UniformCornerRadius="15"
+                         Background="{DynamicResource MaterialDesignPaper}"
+                         Margin="25"
+                         materialDesign:ShadowAssist.ShadowDepth="Depth4">
+        <materialDesign:DialogHost CloseOnClickAway="True"
+                                   x:Name="DialogHost">
+            <StackPanel>
+
+                <materialDesign:PopupBox HorizontalAlignment="Right"
+                                         Margin="0 20 20 0"
+                                         PlacementMode="BottomAndAlignRightEdges"
+                                         StaysOpen="False"
+                                         Height="25">
+                    <StackPanel>
+
+                        <StackPanel Margin="16 10 0 6"
+                                    Orientation="Horizontal"
+                                    HorizontalAlignment="Center">
+                            <TextBlock  VerticalAlignment="Center"
+                                        Text="Dark Mode" />
+                            <ToggleButton Cursor="Hand"
+                                          ToolTip="Enable Dark Mode"
+                                          Margin="12 0 8 0"
+                                          x:Name="themeToggle"
+                                          IsChecked="{Binding IsDarkTheme}"
+                                          Click="toggleTheme" />
+                        </StackPanel>
+
+                        <Button Margin="0 8 0 0"
+                                Content="Minimize"
+                                Click="minimizeApp" />
+                        <Button x:Name="Btn_Exit"
+                                ToolTip="Close Application"
+                                Content="Exit Application"
+                                Click="exitApp" />
+
+                    </StackPanel>
+                </materialDesign:PopupBox>
+
+
+
+                <Image Margin="0,60,0,5"
+                       Source="logo.png"
+                       Height="181"></Image>
+
+
+
+                <Button 
+                        Margin="0,120,0,0"
+                        Style="{StaticResource MaterialDesignFloatingActionButton}"
+                        materialDesign:ButtonProgressAssist.IsIndicatorVisible="True"
+                        materialDesign:ButtonProgressAssist.Value="-1"
+                        materialDesign:ButtonProgressAssist.IsIndeterminate="True"
+                        Content=""
+                        x:Name="loadingButton"
+                        IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}"
+                        Click="loadingButton_Click" />
+
+                <Label 
+                       x:Name="statusLabel"
+                       Margin="0,10,0,0"
+                       HorizontalAlignment="Center"
+                       Content=""
+                       Foreground="#DDFF1313"
+                       FontWeight="Bold"
+                       FontFamily="Arial Black" />
+
+                <Label Margin="340,140,0,0"
+                       x:Name="labelVersion"
+                       Content="#"/>
+
+
+
+
+            </StackPanel>
+        </materialDesign:DialogHost>
+    </materialDesign:Card>
+</Window>

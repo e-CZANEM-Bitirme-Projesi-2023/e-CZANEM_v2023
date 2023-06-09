@@ -1,0 +1,246 @@
+﻿<Window x:Class="WPF_login.UserInterFace.addManualTimeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:WPF_login"
+        mc:Ignorable="d"
+        Title="Login"
+        Height="760"
+        Width="450"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        Background="{x:Null}"
+        AllowsTransparency="True"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen">
+
+    <materialDesign:Card UniformCornerRadius="15"
+                         Background="{DynamicResource MaterialDesignPaper}"
+                         Margin="25"
+                         materialDesign:ShadowAssist.ShadowDepth="Depth4">
+        <materialDesign:DialogHost CloseOnClickAway="True"
+                                   x:Name="DialogHost">
+            <StackPanel>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="90" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition />
+                        <RowDefinition Height="2*" />
+
+
+                    </Grid.RowDefinitions>
+                    <StackPanel Orientation="Vertical">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="89*" />
+                                <ColumnDefinition Width="11*" />
+                            </Grid.ColumnDefinitions>
+                            <StackPanel Grid.Column="0">
+                                <Image Source="logo.png"
+                                       Height="90" />
+                            </StackPanel>
+
+                            <StackPanel Grid.Column="1">
+
+                                <materialDesign:PopupBox HorizontalAlignment="Right"
+                                                         Margin="0 20 20 0"
+                                                         PlacementMode="BottomAndAlignRightEdges"
+                                                         StaysOpen="False"
+                                                         Height="25">
+                                    <StackPanel>
+
+                                        <StackPanel Margin="16 10 0 6"
+                                                    Orientation="Horizontal"
+                                                    HorizontalAlignment="Center">
+                                            <TextBlock  VerticalAlignment="Center"
+                                                        Text="Dark Mode" />
+                                            <ToggleButton Cursor="Hand"
+                                                          ToolTip="Enable Dark Mode"
+                                                          Margin="12 0 8 0"
+                                                          x:Name="themeToggle"
+                                                          IsChecked="{Binding IsDarkTheme}"
+                                                          Click="toggleTheme" />
+                                        </StackPanel>
+
+                                        <Button ToolTip="Having Troubles in Logging In?"
+                                                Margin="0 8 0 0"
+                                                Content="Help Me" />
+                                        <Button x:Name="Btn_Exit"
+                                                ToolTip="Close Application"
+                                                Content="Exit Application"
+                                                Click="exitApp" />
+
+                                    </StackPanel>
+                                </materialDesign:PopupBox>
+
+                            </StackPanel>
+                        </Grid>
+                    </StackPanel>
+                    <StackPanel Grid.Row="1"
+                                Orientation="Vertical">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="81*" />
+                                <ColumnDefinition Width="319*" />
+                            </Grid.ColumnDefinitions>
+                            <StackPanel Grid.Column="1">
+                                <materialDesign:Card Foreground="{DynamicResource PrimaryHueDarkForegroundBrush}"
+                                                     Width="300"
+                                                     Padding="15"
+                                                     UniformCornerRadius="6"
+                                                     Background="{DynamicResource {x:Static SystemColors.MenuHighlightBrushKey}}">
+                                    <TextBlock x:Name="jobDescriptionLabel"
+                                               TextWrapping="Wrap"
+                                               Text="Job Name (Description)"
+                                               Foreground="#FFFAFAFA" />
+
+                                </materialDesign:Card>
+                            </StackPanel>
+                            <StackPanel Grid.Column="0">
+                                <Button x:Name="backButton"
+                                        Style="{StaticResource MaterialDesignFloatingActionMiniButton}"
+                                        Height="50"
+                                        Width="50"
+                                        Margin="20,0,0,0"
+                                        HorizontalAlignment="Center"
+                                        ToolTip="MaterialDesignFloatingActionMiniButton"
+                                        IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}"
+                                        Click="backButton_Click">
+                                    <materialDesign:PackIcon Kind="ArrowLeft" />
+                                </Button>
+
+                            </StackPanel>
+                        </Grid>
+                    </StackPanel>
+                    <StackPanel Grid.Row="2"
+                                Orientation="Vertical">
+                        <Grid>
+                            <StackPanel Orientation="Vertical"
+                                        Margin="0 20 0 0">
+                                <TextBlock Margin="10 10 0 0"
+                                           HorizontalAlignment="Left"
+                                           FontSize="20"
+                                           Text="Date"
+                                           FontFamily="Arial Narrow"
+                                           Foreground="#FF3399FF" />
+                                <ComboBox Margin="10 10 0 0"
+                                          Style="{StaticResource MaterialDesignOutlinedComboBox}"
+                                          materialDesign:HintAssist.Hint="Validation test"
+                                          HorizontalAlignment="Left"
+                                          ItemsSource="{Binding Collection}"
+                                          materialDesign:TextFieldAssist.HasClearButton="True"
+                                          SelectedItem="{Binding SelectedModel,Mode=TwoWay}"
+                                          IsEditable="True"
+                                          Width="380"
+                                          SelectedIndex="0"
+                                          x:Name="comboboxDate">
+                                    
+                                </ComboBox>
+                                <StackPanel Orientation="Vertical"
+                                            Margin="0 20 0 0">
+                                    <Grid>
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="50*" />
+                                            <ColumnDefinition Width="50*" />
+                                        </Grid.ColumnDefinitions>
+                                        <StackPanel Grid.Column="0"
+                                                    Orientation="Vertical">
+                                            <TextBlock Margin="10 10 0 0"
+                                                       HorizontalAlignment="Center"
+                                                       FontSize="20"
+                                                       Text="Start Time"
+                                                       FontFamily="Arial Narrow"
+                                                       Foreground="#FF3399FF" />
+                                            <materialDesign:TimePicker x:Name="startTimePicker"
+                                                                       Margin="10 0 0 0"
+                                                                       HorizontalAlignment="Center"
+                                                                       Is24Hours="True"
+                                                                       Width="100"
+                                                                       Height="30"
+                                                                       Background="#00000000"
+                                                                       FontSize="16"
+                                                                       BorderBrush="{DynamicResource MaterialDesignBody}" />
+                                        </StackPanel>
+                                        <StackPanel Grid.Column="1"
+                                                    Orientation="Vertical">
+                                            <TextBlock Margin="10 10 0 0"
+                                                       HorizontalAlignment="Center"
+                                                       FontSize="20"
+                                                       Text="End Time"
+                                                       FontFamily="Arial Narrow"
+                                                       Foreground="#FF3399FF" />
+                                            <materialDesign:TimePicker x:Name="endTimePicker"
+                                                                       Margin="10 0 0 0"
+                                                                       HorizontalAlignment="Center"
+                                                                       Is24Hours="True"
+                                                                       Width="100"
+                                                                       Height="30"
+                                                                       Background="#00000000"
+                                                                       FontSize="16"
+                                                                       BorderBrush="{DynamicResource MaterialDesignBody}" />
+                                        </StackPanel>
+                                    </Grid>
+
+                                </StackPanel>
+
+                            </StackPanel>
+                        </Grid>
+                    </StackPanel>
+                    <StackPanel Grid.Row="3"
+                                Orientation="Vertical">
+                        <StackPanel Orientation="Horizontal"
+                                    Margin="0 40 0 0">
+                            <TextBlock Margin="30 0 0 0"
+                                       HorizontalAlignment="Center"
+                                       VerticalAlignment="Center"
+                                       FontSize="15"
+                                       Text="Memo"
+                                       FontFamily="Arial Black"
+                                       FontStyle="Italic"
+                                       Foreground="#FF3399FF" />
+                            <TextBox Name="memoTextBox"
+                                     Width="275"
+                                     FontSize="15"
+                                     HorizontalAlignment="Center"
+                                     VerticalAlignment="Center"
+                                     materialDesign:HintAssist.Hint="What are you working on?"
+                                     BorderThickness="2"
+                                     Margin="30,0,0,0"
+                                     BorderBrush="{DynamicResource MaterialDesignDivider}"
+                                     Style="{StaticResource MaterialDesignOutlinedTextBox}" />
+                        </StackPanel>
+
+                        <StackPanel Orientation="Vertical"
+                                    Margin="0 50 0 0">
+                            <Image Width="auto"
+                                   MaxHeight="210"
+                                   MaxWidth="350"
+                                   Margin="0 2 0 0"
+                                   x:Name="imageUpload" />
+                        </StackPanel>
+                        <StackPanel>
+                            <Grid x:Name="gridAddManualTime"
+                                  Margin="0 10 0 0">
+                                <Button x:Name="buttonSend"
+                                        Style="{StaticResource MaterialDesignRaisedDarkButton}"
+                                        materialDesign:ButtonAssist.CornerRadius="25"
+                                        IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}"
+                                        Margin="80,0,80,0"
+                                        Click="buttonSend_Click">
+                                    <StackPanel Orientation="Horizontal">
+                                        <materialDesign:PackIcon Kind="AccountClock" />
+                                        <TextBlock Text="Send Time"
+                                                   Margin="10 0 0 0" />
+                                    </StackPanel>
+                                </Button>
+                            </Grid>
+                        </StackPanel>
+                    </StackPanel>
+                </Grid>
+            </StackPanel>
+        </materialDesign:DialogHost>
+    </materialDesign:Card>
+</Window>
+

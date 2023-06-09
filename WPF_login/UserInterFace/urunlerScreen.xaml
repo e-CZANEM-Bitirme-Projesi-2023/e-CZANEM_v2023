@@ -1,0 +1,182 @@
+﻿<Window x:Class="WPF_login.UserInterFace.urunlerScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:WPF_login"
+        mc:Ignorable="d"
+        Title="Login"
+        Height="760"
+        Width="450"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        Background="{x:Null}"
+        AllowsTransparency="True"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen">
+
+    <materialDesign:Card UniformCornerRadius="15"
+                         Background="{DynamicResource MaterialDesignPaper}"
+                         Margin="25"
+                         materialDesign:ShadowAssist.ShadowDepth="Depth4">
+        <materialDesign:DialogHost CloseOnClickAway="True"
+                                   x:Name="DialogHost">
+
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                
+                <StackPanel Orientation="Vertical">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="89*" />
+                            <ColumnDefinition Width="11*" />
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Grid.Column="0"
+                                    Margin="12">
+                            <Image Source="logo.png"
+                                   Height="90" />
+                        </StackPanel>
+
+                        <StackPanel Grid.Column="1">
+
+                            <materialDesign:PopupBox HorizontalAlignment="Right"
+                                                     Margin="0 20 20 0"
+                                                     PlacementMode="BottomAndAlignRightEdges"
+                                                     StaysOpen="False"
+                                                     Height="25">
+                                <StackPanel>
+
+                                    <StackPanel Margin="16 10 0 6"
+                                                Orientation="Horizontal"
+                                                HorizontalAlignment="Center">
+                                        <TextBlock  VerticalAlignment="Center"
+                                                    Text="Karanlık Mod" />
+                                        <ToggleButton Cursor="Hand"
+                                                      Margin="12 0 8 0"
+                                                      x:Name="themeToggle"
+                                                      IsChecked="{Binding IsDarkTheme}"
+                                                      Click="toggleTheme" />
+                                    </StackPanel>
+
+                                    <Button Margin="0 8 0 0"
+                                            Content="Küçült"
+                                            Click="minimizeApp" />
+                                    <Button x:Name="Btn_Exit"
+                                            ToolTip="Close Application"
+                                            Content="Uygulamayı Kapat"
+                                            Click="exitApp" />
+
+                                </StackPanel>
+                            </materialDesign:PopupBox>
+                        </StackPanel>
+                    </Grid>
+                </StackPanel>
+                <StackPanel Grid.Row="1"
+                            Orientation="Vertical">
+                    <Border Grid.Row="1"
+                            BorderBrush="#FF79A66D"
+                            BorderThickness="1"
+                            Margin="10">
+                        <Image x:Name="urlResim"
+                               Stretch="Uniform"                               
+                               Width="375"
+                               Height="170"/>
+                    </Border>
+                </StackPanel>
+                <Grid Grid.Row="2"
+                      Margin="10">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="Auto" />
+                    </Grid.ColumnDefinitions>
+                    <StackPanel Grid.Column="0">
+                        <ComboBox x:Name="urunIdComboBox"
+                                  Width="auto"
+                                  materialDesign:HintAssist.HelperText="Ürün Barkod"
+                                  materialDesign:HintAssist.Hint="Ürün Barkod Seçiniz"
+                                  Style="{StaticResource MaterialDesignFilledComboBox}"
+                                  SelectionChanged="urunIdComboBox_SelectionChanged">
+                        </ComboBox>
+                    </StackPanel>
+                    <StackPanel Grid.Column="1">
+                        <ComboBox x:Name="stokCombo"
+                                  Width="auto"
+                                  materialDesign:HintAssist.HelperText="Stok Adeti"
+                                  materialDesign:HintAssist.Hint="Stok Adeti Seçiniz"
+                                  Style="{StaticResource MaterialDesignFilledComboBox}">
+                        </ComboBox>
+                    </StackPanel>
+                    <StackPanel Grid.Column="2">
+                        <Button x:Name="refreshPageButton"
+                                Style="{StaticResource MaterialDesignFloatingActionMiniButton}"
+                                Height="50"
+                                Width="50"
+                                Margin="20,0,0,0"
+                                HorizontalAlignment="Center"
+                                ToolTip="Stok Güncelle"
+                                IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}"
+                                Background="#FF79A66D"
+                                BorderBrush="#FF79A66D"
+                                Click="refreshPageButton_Click">
+                            <materialDesign:PackIcon Kind="Refresh"
+                                                     Height="30"
+                                                     Width="30" />
+                        </Button>
+                    </StackPanel>
+                </Grid>
+                <Grid Grid.Row="3">
+                    <materialDesign:Card Width="320"
+                                         Padding="0"
+                                         Margin="30"
+                                         UniformCornerRadius="20"
+                                         Background="#FF79A66D"
+                                         Foreground="{DynamicResource PrimaryHueDarkForegroundBrush}">
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                            </Grid.RowDefinitions>
+                                <TextBlock x:Name="ilacAdiText"
+                                           Grid.Row="0"
+                                           Margin="16,16,16,4"
+                                           Style="{StaticResource MaterialDesignHeadline5TextBlock}"
+                                           Text="İlaç Adı"
+                                           FontWeight="Bold"
+                                           HorizontalAlignment="Center"
+                                           FontFamily="Times New Roman" />
+                                <Separator Grid.Row="1"
+                                           Style="{StaticResource MaterialDesignLightSeparator}" />
+                                <StackPanel Grid.Row="2">
+                                <TextBlock x:Name="ureticiFirmaText"
+                                           Margin="16,0,16,8"
+                                           HorizontalAlignment="Left"
+                                           VerticalAlignment="Center"
+                                           Style="{StaticResource MaterialDesignBody2TextBlock}"
+                                           Text="Üretici Firma" />
+                                <Separator 
+                                           Style="{StaticResource MaterialDesignLightSeparator}" />
+                                <TextBlock x:Name="urunHakkindaText"
+                                           Margin="16,0,16,8"
+                                           HorizontalAlignment="Left"
+                                           VerticalAlignment="Center"
+                                           TextWrapping="Wrap"
+                                           Style="{StaticResource MaterialDesignBody2TextBlock}"
+                                           Text="Ürün Hakkında Açıklama" />
+                              
+                            </StackPanel>
+                           
+                            
+                        </Grid>
+                    </materialDesign:Card>
+                </Grid>
+                </Grid>
+        </materialDesign:DialogHost>
+    </materialDesign:Card>
+</Window>

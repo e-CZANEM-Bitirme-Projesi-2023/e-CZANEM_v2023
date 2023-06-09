@@ -1,0 +1,633 @@
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\AI Tracker.csproj.AssemblyReference.cache
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\AI Tracker.csproj.SuggestedBindingRedirects.cache
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\AI Tracker.exe.config
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\UserInterFace\cardTemplate.baml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\UserInterFace\addManualTimeWindow.g.cs
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\UserInterFace\cardTemplate.g.cs
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\UserInterFace\isTanimiSayfasi.g.cs
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\UserInterFace\MainWindow.g.cs
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\UserInterFace\mainPage.g.cs
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\UserInterFace\versionTest.g.cs
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\App.g.cs
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\AI Tracker_MarkupCompile.cache
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\AI Tracker_MarkupCompile.lref
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\AI Tracker.exe.config
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\AI Tracker.exe
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\AI Tracker.pdb
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\netstandard.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.AppContext.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Collections.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Collections.Specialized.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.ComponentModel.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Console.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Data.Common.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Globalization.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.IO.Compression.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.IO.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.IO.FileSystem.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.IO.Pipes.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Linq.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Linq.Expressions.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Linq.Parallel.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Linq.Queryable.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Net.Http.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Net.NameResolution.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Net.Ping.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Net.Primitives.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Net.Requests.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Net.Security.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Net.Sockets.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Net.WebSockets.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.ObjectModel.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Reflection.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Resources.Reader.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Resources.Writer.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Runtime.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Runtime.Handles.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Security.Claims.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Security.Principal.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Security.SecureString.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Text.Encoding.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Threading.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Threading.Tasks.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Threading.Thread.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Threading.Timer.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Xml.XDocument.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Xml.XPath.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Azure.Core.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Azure.Identity.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\MaterialDesignColors.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Assessment.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\MySqlConnector.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Newtonsoft.Json.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\RestSharp.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Buffers.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Data.OleDb.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Drawing.Common.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Memory.Data.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Memory.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Security.AccessControl.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Security.Permissions.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Text.Json.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.ValueTuple.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Azure.Core.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Azure.Identity.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\MaterialDesignColors.pdb
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Assessment.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Assessment.Types.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Dmf.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.PolicyEnum.pdb
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Smo.pdb
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Smo.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\MySqlConnector.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Newtonsoft.Json.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\RestSharp.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Buffers.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Data.OleDb.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Memory.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Memory.Data.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Security.AccessControl.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Security.Permissions.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Text.Json.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.ValueTuple.xml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\App.baml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\UserInterFace\addManualTimeWindow.baml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\UserInterFace\isTanimiSayfasi.baml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\UserInterFace\MainWindow.baml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\UserInterFace\mainPage.baml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\UserInterFace\versionTest.baml
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\AI Tracker.g.resources
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\WPF_login.Properties.Resources.resources
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\AI Tracker.csproj.GenerateResource.cache
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\AI Tracker.csproj.CoreCompileInputs.cache
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\AI Tracker.csproj.CopyComplete
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\AI Tracker.exe
+C:\Users\burak\Downloads\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\AI Tracker.pdb
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\AI Tracker.csproj.AssemblyReference.cache
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\AI Tracker.csproj.SuggestedBindingRedirects.cache
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\UserInterFace\OrderedItemsTemplate.baml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\UserInterFace\cardTemplate.baml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\UserInterFace\OrderedItemsTemplate.g.cs
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\UserInterFace\cardTemplate.g.cs
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\UserInterFace\chooseScreen.g.cs
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\UserInterFace\isTanimiSayfasi.g.cs
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\UserInterFace\MainWindow.g.cs
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\UserInterFace\mainPage.g.cs
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\UserInterFace\versionTest.g.cs
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\App.g.cs
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\AI Tracker_MarkupCompile.cache
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\AI Tracker_MarkupCompile.lref
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\AI Tracker.exe.config
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\AI Tracker.exe
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\AI Tracker.pdb
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Azure.Core.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Azure.Identity.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\MaterialDesignColors.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.Identity.Client.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Assessment.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\MySqlConnector.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Newtonsoft.Json.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\RestSharp.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Buffers.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Data.OleDb.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Drawing.Common.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Memory.Data.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Memory.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Numerics.Vectors.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Security.AccessControl.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Security.Permissions.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Security.Principal.Windows.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Text.Encodings.Web.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Text.Json.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.ValueTuple.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Azure.Core.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Azure.Identity.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\MaterialDesignColors.pdb
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.Identity.Client.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Assessment.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Assessment.Types.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Dmf.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.PolicyEnum.pdb
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Smo.pdb
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Smo.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\MySqlConnector.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\Newtonsoft.Json.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\RestSharp.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Buffers.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Data.OleDb.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Memory.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Memory.Data.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Numerics.Vectors.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Security.AccessControl.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Security.Permissions.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Security.Principal.Windows.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Text.Encodings.Web.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Text.Json.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\System.ValueTuple.xml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\App.baml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\UserInterFace\chooseScreen.baml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\UserInterFace\isTanimiSayfasi.baml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\UserInterFace\MainWindow.baml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\UserInterFace\mainPage.baml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\UserInterFace\versionTest.baml
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\AI Tracker.g.resources
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\WPF_login.Properties.Resources.resources
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\AI Tracker.csproj.GenerateResource.cache
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\AI Tracker.csproj.CoreCompileInputs.cache
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\AI Tracker.csproj.CopyComplete
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\AI Tracker.exe
+D:\Indirilenler\Create-login-form-using-wpf\WPF_login\WPF_login\obj\Debug\AI Tracker.pdb
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Azure.Core.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Azure.Identity.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\MaterialDesignColors.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Assessment.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\MySqlConnector.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Newtonsoft.Json.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\RestSharp.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\System.Buffers.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\System.Data.OleDb.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\System.Drawing.Common.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\System.Memory.Data.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\System.Memory.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\System.Security.AccessControl.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\System.Security.Permissions.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\System.Text.Json.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\System.ValueTuple.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Azure.Core.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Azure.Identity.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\MaterialDesignColors.pdb
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Assessment.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Assessment.Types.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Dmf.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.PolicyEnum.pdb
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Smo.pdb
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Smo.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\MySqlConnector.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\Newtonsoft.Json.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\RestSharp.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\System.Buffers.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\System.Data.OleDb.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\System.Memory.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\System.Memory.Data.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\System.Security.AccessControl.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\System.Security.Permissions.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\System.Text.Json.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\System.ValueTuple.xml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\obj\Debug\AI Tracker.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\obj\Debug\AI Tracker.csproj.SuggestedBindingRedirects.cache
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\obj\Debug\UserInterFace\OrderedItemsTemplate.baml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\obj\Debug\UserInterFace\cardTemplate.baml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\obj\Debug\UserInterFace\OrderedItemsTemplate.g.cs
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\obj\Debug\UserInterFace\cardTemplate.g.cs
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\obj\Debug\UserInterFace\chooseScreen.g.cs
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\obj\Debug\UserInterFace\isTanimiSayfasi.g.cs
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\obj\Debug\UserInterFace\MainWindow.g.cs
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\obj\Debug\UserInterFace\mainPage.g.cs
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\obj\Debug\UserInterFace\versionTest.g.cs
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\obj\Debug\App.g.cs
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\obj\Debug\App.baml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\obj\Debug\UserInterFace\chooseScreen.baml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\obj\Debug\UserInterFace\isTanimiSayfasi.baml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\obj\Debug\UserInterFace\MainWindow.baml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\obj\Debug\UserInterFace\mainPage.baml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\obj\Debug\UserInterFace\versionTest.baml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\obj\Debug\WPF_login.Properties.Resources.resources
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\obj\Debug\AI Tracker.csproj.GenerateResource.cache
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\obj\Debug\AI Tracker.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\obj\Debug\AI Tracker.csproj.CopyComplete
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\obj\Debug\UserInterFace\urunlerScreen.g.cs
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\obj\Debug\UserInterFace\urunlerScreen.baml
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\e-CZANEM WPF.exe.config
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\e-CZANEM WPF.exe
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\bin\Debug\e-CZANEM WPF.pdb
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\obj\Debug\e-CZANEM WPF_MarkupCompile.cache
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\obj\Debug\e-CZANEM WPF_MarkupCompile.lref
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\obj\Debug\e-CZANEM WPF.g.resources
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\obj\Debug\e-CZANEM WPF.exe
+C:\Users\burak\Desktop\Bitirme Projesi\WPF_login\WPF_login\obj\Debug\e-CZANEM WPF.pdb

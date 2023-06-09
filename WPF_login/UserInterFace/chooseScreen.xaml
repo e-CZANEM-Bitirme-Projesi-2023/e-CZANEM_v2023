@@ -1,0 +1,115 @@
+﻿<Window x:Class="WPF_login.UserInterFace.chooseScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:WPF_login"
+        mc:Ignorable="d"
+        Title="Login"
+        Height="760"
+        Width="450"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        Background="{x:Null}"
+        AllowsTransparency="True"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen">
+
+    <materialDesign:Card UniformCornerRadius="15"
+                         Background="{DynamicResource MaterialDesignPaper}"
+                         Margin="25"
+                         materialDesign:ShadowAssist.ShadowDepth="Depth4">
+        <materialDesign:DialogHost CloseOnClickAway="True"
+                                   x:Name="DialogHost">
+
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="110" />
+                    <RowDefinition />
+
+
+                </Grid.RowDefinitions>
+                <StackPanel Orientation="Vertical">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="89*" />
+                            <ColumnDefinition Width="11*" />
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Grid.Column="0"
+                                    Margin="12">
+                            <Image Source="logo.png"
+                                   Height="90" />
+                        </StackPanel>
+
+                        <StackPanel Grid.Column="1">
+
+                            <materialDesign:PopupBox HorizontalAlignment="Right"
+                                                     Margin="0 20 20 0"
+                                                     PlacementMode="BottomAndAlignRightEdges"
+                                                     StaysOpen="False"
+                                                     Height="25">
+                                <StackPanel>
+
+                                    <StackPanel Margin="16 10 0 6"
+                                                Orientation="Horizontal"
+                                                HorizontalAlignment="Center">
+                                        <TextBlock  VerticalAlignment="Center"
+                                                    Text="Dark Mode" />
+                                        <ToggleButton Cursor="Hand"
+                                                      ToolTip="Enable Dark Mode"
+                                                      Margin="12 0 8 0"
+                                                      x:Name="themeToggle"
+                                                      IsChecked="{Binding IsDarkTheme}"
+                                                      Click="toggleTheme" />
+                                    </StackPanel>
+
+                                    <Button ToolTip="Having Troubles in Logging In?"
+                                            Margin="0 8 0 0"
+                                            Content="Help Me" />
+                                    <Button x:Name="Btn_Exit"
+                                            ToolTip="Close Application"
+                                            Content="Exit Application"
+                                            Click="exitApp" />
+
+                                </StackPanel>
+                            </materialDesign:PopupBox>
+
+                        </StackPanel>
+                    </Grid>
+                </StackPanel>
+
+                <Border Grid.Row="1">
+                    <StackPanel Orientation="Vertical"
+                                Name="addToPanel">
+                        <!--Buraya Eklenecek Genel Olarak-->
+                        <Grid  Margin="20">
+                            <Button x:Name="buttonAddMedicine"
+                                    Height="210"
+                                    materialDesign:ButtonAssist.CornerRadius="25"
+                                    IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}"
+                                    Style="{StaticResource MaterialDesignRaisedDarkButton}"
+                                    Background="#FF79A76C"
+                                    Click="buttonAddMedicine_Click">
+                                <TextBlock FontSize="40" Text="Ürün Stok Bilgisi"
+                                           FontFamily="Impact" />
+                            </Button>
+                        </Grid>
+
+                        <Grid Margin="20">
+                            <Button x:Name="buttonGetOrders"
+                                    Height="210"
+                                    materialDesign:ButtonAssist.CornerRadius="25"
+                                    IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}"
+                                    Style="{StaticResource MaterialDesignRaisedDarkButton}"
+                                    Click="buttonGetOrders_Click">
+                                <TextBlock FontSize="40"
+                                           Text="Sparişler"
+                                           FontFamily="Impact" />
+                            </Button>
+                        </Grid>
+                    </StackPanel>
+                </Border>
+            </Grid>
+        </materialDesign:DialogHost>
+    </materialDesign:Card>
+</Window>
