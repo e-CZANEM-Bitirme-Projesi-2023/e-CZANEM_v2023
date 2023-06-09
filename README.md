@@ -16,7 +16,7 @@ Arayüz tasarımlarında React Native dili ve Material Kit template’inden yara
 
 
 
-# In English
+# Description in English Language
 
 
 This project was carried out by Gazi University Engineering Faculty Computer Engineering students Şevval İrem SANVER and Ahmet Enes TOPCU as a Graduation Project for the year 2022-2023.
@@ -29,4 +29,4 @@ The application was made as two separate mobile applications for patients and co
 
 In the development of this project, which will be implemented, different technologies will be used in the front-end and back-end stages.
 
-React Native language and Material Kit template were used in the interface designs. C# programming language was used during the backend development of the project. PostgreSQL is preferred in database technology. This database will be managed through Amazon Web Services and leveraged Amazon RDS, which enables to set up, run and scale a relational database in the cloud. A virtual machine will be set up with Amazon Web Services Elastic Beanstalk in the Web API.
+React Native language and Material Kit template were used in the interface designs. C# programming language was used during the backend development of the project. PostgreSQL is preferred in database technology. This database will be managed through Amazon Web Services and Amazon RDS, which enables to set up, run and scale a relational database in the cloud. A virtual machine will be set up with Amazon Web Services Elastic Beanstalk in the Web API.
